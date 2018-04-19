@@ -1,0 +1,48 @@
+CMV: THERE IS NOTHING WRONG WITH NOT VOTING. NOBODY SHOULD BE CRITICIZED FOR FAILING/REFUSING TO VOTE.
+ID: d9tqoyu
+Author: 0mni42
+
+http://www.electproject.org/2016g
+
+1
+
+> However, the fact of the matter is that Hillary Clinton had 47.66% of the popular vote, while Donald Trump had 47.50%, for a difference of 0.16 percentage points. Based on those numbers, it is impossible to say whether non-voters would have voted one way or the other, and it is therefore completely baseless to blame non-voters for the results. It is just as likely that an increase in voter turnout could have caused Donald Trump to win by a wider margin. 
+
+While it's true that we don't necessarily know what results a higher turnout would have had, it's important to remember that only around [55%](http://www.electproject.org/2016g) of the eligible population actually voted in the first place (the site I linked to is down at the moment but hopefully it'll be back up soon). It benefits everyone to have a higher voter turnout; it allows us to create a government that's more representative and responsive to what we the people actually want. 
+
+On another note, you say that "by not voting, a person's voice is not being heard" is one of the things you disagree with, but you also say that "part of free choice is having the choice to not give an opinion." "Not giving an opinion" is *exactly* what not voting is. 
+
+Think about it like this: as a republic, our government is designed so that everyday people don't have to make the tough decisions; we give that power to other people, and choose them based on who we think will best represent us. That's what voting is. But if you refuse to vote, you're giving up that power to random people instead of the ones you know and support. They (the people who actually vote) will be the ones to choose your leaders. Do you trust millions of people you don't know to make the right choice? Because make no mistake, abstaining from voting in an election doesn't mean you get to abstain from the consequences of that election. As the Greek orator Pericles once said, "just because you don't take an interest in politics does not mean that politics won't take an interest in you."
+
+-------
+
+http://www.electproject.org/2016g
+UNITED STATES ELECTIONS PROJECT
+2016g 2016 November General Election Turnout Rates All states have certified their presidential votes. Some states have not reported their total ballots counted. I estimate the national total ballots counted by multiplying the total votes for president by 1.016, which is the ratio of the total ballots counted to presidential votes for the states reporting both statistics. I continue to update total ballots counted in 2017 as states report data, but a handful may never report this statistic.
+
+The preferred turnout rates are those calculated with the voting-eligible population as the denominator. The voting-eligible population (VEP) represents an estimate of persons eligible to vote regardless of voter registration status in an election and is constructed by modifying the voting-age population (VAP), by components reported in the right-most columns (scroll right in the spreadsheet).
+
+
+
+The preferred turnout rates are those calculated with the voting-eligible population as the denominator. The voting-eligible population () represents an estimate of persons eligible to vote regardless of voter registration status in an election and is constructed by modifying the voting-age population (), by components reported in the right-most columns (scroll right in the spreadsheet). The preferred turnout rate numerator is the Total Ballots Counted, which is all ballots election officials counted. Not all jurisdictions report total ballots counted, so a second-best numerator is Highest Office, which in a presidential election year is the total votes for all presidential candidates including write-ins (where reported - I am continuing to update these statistics), and in a non-presidential election may be the vote for the highest turnout statewide office (typically governor) or if no statewide election was held, the sum of the congressional elections. Total ballots counted includes blank and otherwise invalid votes for the highest office. Some states may report a statistic they call total ballots cast, but is actually vote for highest office.
+
+
+
+Questions? Please see the
+
+
+
+
+
+Direct link to spreadsheet
+
+2016 November General Election
+
+Notes:
+
+
+
+The denominator reflects the The denominator reflects the July 1, 2015 and July 1, 2016 voting-age population estimates extrapolated to Nov. 1 2016, non-citizen estimates from the 2015 American Community Survey , the year-end 2015 DOJ prison report and the year-end 2015 DOJ probation and parole report . The number of felons who are on probation is estimated to be 57% of the total, which based on a DOJ survey; the total probation population is reported in the spreadsheet, and this adjustment is applied to the number of ineligible felons on probation, parole or in prison. Starting in 2010, the citizen prison population is reported. A '0' indicates that either a state does not disfranchise a class of felons or the state does not incarcerate felons within their borders (this is true for DC). See The Sentencing Project for more information. The overseas eligible population estimate is extrapolated from 2012 and 2014 civilian estimates from the Federal Voting Assistance Program -- which reports 5.6 million overseas citizens in 2012 and 5.7 in 2014. This estimate is deflated by 76.0%, which is the percentage of the domestic citizen population that is of voting age according to the 2015 American Community Survey. Military personnel stationed overseas are added from a June, 2016 Defense Manpower Report. (Note: based on a survey of overseas voters, the Federal Voting Assistance Program estimates that only 45.3% of overseas citizens are of voting age. Pending further investigation, I follow past practice of using an estimate from the domestic civilians.) The preferred turnout rate numerator is the, which is all ballots election officials counted. Not all jurisdictions report total ballots counted, so a second-best numerator is, which in a presidential election year is the total votes for all presidential candidates including write-ins (where reported - I am continuing to update these statistics), and in a non-presidential election may be the vote for the highest turnout statewide office (typically governor) or if no statewide election was held, the sum of the congressional elections. Total ballots counted includes blank and otherwise invalid votes for the highest office. Some states may report a statistic they call total ballots cast, but is actually vote for highest office.Questions? Please see the FAQ
+
+-------
+

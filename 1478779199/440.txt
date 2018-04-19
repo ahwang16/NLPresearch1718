@@ -1,0 +1,25 @@
+CMV: HEARTHSTONE IS A BAD CARD GAME
+ID: d9uidcz
+Author: championofobscurity
+
+0
+
+So, I doubt I will make an overtly compelling argument, because as a cardboard TCG player I largely agree with you. But there is one argument in favor of Hearthstone concerning randomness  that I think is a fair assessment relative to all other card games, including non-tcgs like Poker etc.
+
+The random Cards in hearthstone are a calculated risk. So while they are directly random, the extreme end of their usefulness is strategic, and largely predicated by creating a board state where you can combo off of their randomness to your benefit. For example, in a really basic scenario if a card deals 3 random damage to an enemy and you need it to deal damage specifically to the enemy hero or a specific creature, your goal then becomes to create a board where only some iteration of that outcome can happen. I would say that's extremely strategic, and here's why.
+
+At the upper levels of play in other card games  that lack random cards (Think MTG or YGO) There's a distinct complexity curve. On  one side (the bad player side) People don't make optimized decks, and for those that do, they don't often have the mental capacity to make optimized plays with those decks. But then, you get to the average to good part of the curve (the middle) and everyone starts making good decks, and starts capitalizing on good plays.
+
+However, on the opposite side of the curve (the Extremely good player side) Play begins to devolve again. These players have such intricate knowledge of the game, that they begin to act randomly to gain an advantage. This is called "suboptimal play" In the card games I mentioned, advanced play is largely predicated by how randomly you can play while also making optimal plays. Keeping your opponent in the dark about what cards you have, what cards you have selected for your deck and what your sideboard looks like is extremely vital to winning. But that means that what goes into your deck slowly becomes less of an issue. Net decks in particular come to mind in tournament play. What sets champion level players apart from the rest is not what goes into their decks.
+
+ If you look at any deck profile video on youtube you often here people say "This card is mandatory at X" X being the consecutive number of cards in the deck. If it's apart of an engine, search,draw or what have you then yeah it's mandatory. So net decking is essentially just cutting the fat out of high level play. There are really only two huge factors that go into deck making that actually affect high level play. The sideboard and how all encompassing it is for various threats, and the one or two personal choices a player puts into their main deck that aren't out of a net deck. The rest though, will almost universally be netdecked.
+
+Lastly, and as an unfortunate consequence of reality The least affordable deck, will almost always be the strongest in any longform tournament unless the most affordable deck is *extremely broken*. This is because the more affordable a deck is, the easier it is for people to obtain, and so you are going to get more milage out of your sideboard if you side in for that. So essentially, if you follow your meta it basically means that some non 0% your sideboard is picked for you to some extent.
+
+Deck selection at the end of the day is not that important to card games. It's basically a statistical weedout process as the secondary markets take from people's wallets. There's also the fact that the creators of the card game made cards work a specific way with the intent that people would use them in that manner.
+
+
+Lastly as this all relates to hearthstone, I just don't think randomness is a fair argument against it. When to play a card is still a strategic decision, and random cards can have negative outcomes if you don't control for them. I'd say that's pretty strategic. As for net decking, I think I've shown how it's more or less a non-issue relative to other games.
+
+-------
+

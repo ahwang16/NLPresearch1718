@@ -1,0 +1,29 @@
+pastiche: 1
+nytimes: 1
+outdoorhub: 1
+wikipedia: 7
+youtube: 2
+washingtonpost: 2
+who2: 1
+theguardian: 1
+snopes: 1
+dailywire: 1
+time: 2
+sba: 1
+fairus: 1
+oecd: 1
+scientificamerican: 1
+yale: 1
+fastcoexist: 1
+huffingtonpost: 1
+documentcloud: 1
+m: 1
+google: 2
+democracynow: 1
+census: 1
+nationalreview: 1
+cbsnews: 1
+independent: 1
+
+
+Total number of websites cited: 36

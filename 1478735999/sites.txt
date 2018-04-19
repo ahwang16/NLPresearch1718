@@ -1,0 +1,41 @@
+politifact: 5
+npr: 2
+nytimes: 1
+270towin: 4
+realclearpolitics: 1
+gallup: 1
+al: 1
+imgur: 1
+qu: 1
+inquisitr: 2
+politico: 1
+cnn: 2
+washingtonpost: 3
+virginia: 1
+businessinsider: 1
+nbcnews: 1
+carlbeijer: 1
+scientificamerican: 1
+sciencedirect: 1
+wikipedia: 3
+google: 2
+m: 2
+huffpost: 1
+snopes: 1
+mediaite: 1
+cracked: 1
+publicpolicypolling: 1
+alternet: 1
+bloomberg: 1
+usnews: 1
+reuters: 1
+voanews: 1
+telegraph: 1
+census: 1
+vanityfair: 1
+pewresearch: 1
+electproject: 1
+andover: 1
+
+
+Total number of websites cited: 54

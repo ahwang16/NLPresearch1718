@@ -1,0 +1,123 @@
+CMV: THERE IS NO REAL EVIDENCE THAT BERNIE SANDERS WOULD HAVE EASILY BEATEN TRUMP, DESPITE THE FLOOD OF /R/ALL POSTS CLAIMING SO
+ID: d9uwgf4
+Author: omid_
+
+http://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_sanders-5565.html
+
+http://www.270towin.com/maps/VJBj6
+
+2
+
+The national polling was NOT off. Take a look at the final RCP polling averages for each candidate:
+
+In Clinton vs Trump:
+
+* Clinton: 46.8% (actual: 47.7%)
+* Trump: 43.6% (actual: 47.5%)
+
+In other words the polls underestimated the support of both candidates; Hillary by 0.9%, and Trump by 3.9%. So overall, the polling had a D+3 bias, and many are attributing it to the social undesirability factor of openly supporting Trump.
+
+Of course, this is the final RCP average. To compare with Bernie, we have to go back to June 2016, when the final polling was done for a race between him vs Trump. At that point in time, the RCP average for Hillary and Trump was 43.8% and 42.8%, or a +1 Clinton lead. Actual result: +0.2 Clinton lead.
+
+Now let's compare [Sanders vs Trump](http://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_sanders-5565.html). RCP had this hypothetical race at Sanders +10.4.
+
+* Sanders: 49.7%
+* Trump 39.3%
+
+So to recap:
+
+The polls were not way off. In fact, the June polling margin between Clinton and Trump ended up being closer to the final result than the actual final polling average, overstating her lead by 0.8 points.
+
+So that's just the polling. But these top line numbers don't tell the story. The real answer is WHY Sanders was polling so strongly against Trump relative to Clinton. Anyone who compared the demographic breakdown of the support would see a very strong and consistent difference: **Bernie and Hillary were getting the same level of support among blacks and hispanics, but Bernie was substantially performing better than Hillary among whites**. In addition, **Bernie and Hillary were getting the same level of support among Democrats, but Bernie was substantially performing better than Hillary among independents and Republicans**. And finally, **Bernie and Hillary were getting the same level of support among older voters, but Bernie was substantially performing better than Hillary among younger voters**. So basically, in these head to head polling, Bernie was bringing in all the Hillary supporters PLUS a bunch of folks who wouldn't be voting Democrat if Hillary is the nominee.
+
+I called Trump winning a blue state back in July [here](https://www.reddit.com/r/politics/comments/4uyv23/the_race_for_president_in_oregon_remains_a_dead/d5u2aq4/?context=3) and [here](https://www.reddit.com/r/politics/comments/4v6rym/clinton_trump_tied_in_georgia/d5w4uh8/?context=3).
+
+In fact, [I specifically called out Trump winning Wisconsin](https://www.reddit.com/r/politics/comments/4t4om4/clintons_white_voter_support_dips_dramatically/d5eyo1k/?context=3). The reason why, of course, has to do with what I mentioned above (copied from my post from a few months ago):
+
+>>Unfavorability will reflect in turnout, not her margin. Black voters had a massive increase in turnout in 2008, which caused Obama to win in unexpected places like Indiana, a state that last voted for a Democrat in 1964.
+
+>>Most of the "minority" vote is in safe states, not swing states. Half of Latinos live in California or Texas, which are probably not going to be in play this presidential election.
+
+>>**She's tying Trump in polls even with her huge advantage among Latinos and blacks. So why is she doing so poorly? Because swing states are more white than the United States on average (70%). New Hampshire is 94% white. Iowa is 92%. Wisconsin and Colorado are 88% white each, and Ohio and Pennsylvania are 83% each.**
+
+>>She is literally the most unfavorable Democratic candidate ever. Obama was the opposite. 30% of Democrats have an unfavorable view of Hillary. So non-white voters are going for her in smaller margins than Obama, and will likely have a smaller turnout for her as well.
+
+I bolded a important point there.
+
+[Here's another comment](https://www.reddit.com/r/politics/comments/4mzeuc/north_carolina_superdelegate_endorses_sanders/d4029bq/?context=3) from me that alludes to why Bernie would be stronger than Hillary in Michigan:
+
+>>In the recent poll of Michigan, among voters who identify as lean GOP, Hillary gets 11% of the vote against Trump. In that same demographic, Bernie gets 19% of the vote. Bernie's coalition is much broader and stronger than Hillary's as a result of him not having all that anti-GOP baggage that Hillary has.
+
+***
+
+The polls were not meaningless. They were off by a standard margin of error and that's perfectly okay, and they were off due to people simply not telling pollsters they want to vote for Trump.
+
+The head to head polling between Bernie and Trump only stopped in June 2016. In fact, the final polling average showed Bernie beating Trump by 10 points, well outside the margin of error. On the other hand, the polling between Trump and Clinton in the same time frame showered her leading Trump by 1 point, within the margin of error.
+
+The top line numbers are not actually good predictors of the electoral college, due to the fact that various ethnic groups are not evenly distributed throughout the states. The swing states are on average less diverse than the country as a whole. As I stated in July, Clinton's support among nonwhite people showed her with a national polling lead but hurt her chances in the electoral college due to so much of her support coming from blacks and Latinos in non-competitive states. Those same polls showed that black & Latino voters, despite saying they preferred Clinton in the primaries, said they would vote for Sanders in a race between Sanders and Trump. On the other hand, white voters were far less likely to vote for Clinton than Sanders when against Trump. The same is true among younger voters, independents, and Republicans, who had far greater reservations with Clinton than Sanders in a matchup against Trump.
+
+Based on this facts, I find it very likely that Sanders would have done much better against Trump, especially in the states of Wisconsin and Michigan. What would the electoral map look like if the polling between Sanders and Trump was accurate, but with that D+3 bias? It would end up with an overall Sanders+7 national polling average, meaning we can take all the actual results from yesterday and swing each state by +3.5 (meaning adding 3.5 to Clinton's number and taking 3.5 from Trump. [Here's what the map could look like](http://www.270towin.com/maps/VJBj6).
+
+***
+
+One word of caution regarding a comparison between primary strength and general election strength... they aren't necessarily correlated. Remember that in 2008, Obama lost the following states in the primaries:
+
+* Nevada
+* Michigan
+* Indiana
+* Ohio
+* Pennsylvania
+* Florida
+* New Hampshire
+
+He ended up winning all of them in the general.
+
+Michigan and Florida are questionable due to the lack of contest in them, so you can ignore them in this analysis. But all the other ones were fair contests. Just because a candidate loses a state in the primary doesn't mean they will also lose them in the general.
+
+***
+
+Hillary Clinton is obviously the weaker general election candidate, because her strongest states were in the south, where the primary electorate is significantly different from the general electorate. For example, look at South Carolina. Hillary received over 70% of the vote in the primaries there. In the general election, however, she only received 44% of the vote in the general election. Why such a discrepancy? Because South Carolina, like most southern states, and unlike the rest of the country, **has racially divided political party strength**. The Democratic primary electorate there was only 30% white. In contrast, take a look at Michigan. While it's true that most black voters are Democrats in Michigan as well, the real difference is among white voters. White voters made up 70% of the Democratic electorate in Michigan. This is the difference between party politics in the south and in the rest of the country.
+
+And here are the topline demographics for South Carolina and Michigan:
+
+* Michigan: 14.2% Black
+
+* South Carolina: 27.6% Black
+
+The sad thing is, Hillary didn't even overperform in South Carolina. Obama also got 44% in South Carolina, both in 2008 and 2012. Kerry got 41% in 2004, Gore got 41% in 2000, and Bill Clinton got 44% in 1996.
+
+-------
+
+http://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_sanders-5565.html
+GENERAL ELECTION: TRUMP VS. SANDERS
+Year
+
+State ← Select All
+
+Type
+
+Apply Filter Clear Filter
+
+Results
+
+Select one or more years, states and race types, then click "Apply Filter" to see results.
+
+-------
+
+###INTERACTIVE CONTENT###
+
+http://www.270towin.com/maps/VJBj6
+2020 PRESIDENTIAL ELECTION INTERACTIVE MAP
+Image URL:
+
+Interactive Map URL:
+
+When using a map image online, please consider including a link to the Interactive Map URL. It will allow others to use your map as a starting point to create their own 2020 forecast.
+
+Embed Your Map
+
+Place this map on your website. Just paste the following HTML code:
+
+-------
+
+###IMAGE###

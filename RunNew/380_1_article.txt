@@ -1,0 +1,118 @@
+
+
+http://www.nationalreview.com/corner/442059/dont-blame-clinton-trump-2016-wouldve-beaten-obama-2012
+UPDATED: OBAMA 2012 WOULD'VE BEATEN TRUMP 2016
+UPDATE: Mea Culpa.
+
+Here’s what happened: I used the New York Times vote-record database for the numbers in this post. This was a matter of convenience; I had already been using the NYT database because of its excellent interactive feature, which allows you to scroll over counties in any state color-coded indicators of partisan margin as well as raw vote totals. Here’s the problem: The NYT database doesn’t have the correct numbers in some states. Here are screenshots from the NYT that show the numbers I used:
+
+As you can see, three of the four states said “100% reporting,” and Pennsylvania said “99% reporting.”
+
+Checked against the official FEC results from 2012 — which I should have used anyway, a decision that owes to working on 90 minutes of sleep — here’s the difference in Obama’s 2012 vote totals:
+
+Florida — NYT: 4,235,270 … FEC: 4,237,756
+
+Pennsylvania – NYT: 2,907,448 … FEC: 2,990,274
+
+Ohio — NYT: 2,697,260 … FEC: 2,827,621
+
+North Carolina — NYT: 2,178,388 … FEC: 2,178,391
+
+The Florida and North Carolina numbers are nearly identical — and Trump did earn more raw votes in both states than Obama.
+
+However, the Pennsylvania and Ohio numbers were way off in the NYT database — and barring drastic upward revisions in Trump’s numbers once the final votes are tallied, Obama won more votes than Trump in those two states. This would mean mean, in the hypothetical head-to-head matchup that this post was meant to examine, that Obama 2012 would have defeated Trump 2016 in the electoral college.
+
+This error is not the New York Times’ fault. It is my fault. I should have double-checked the numbers, but was working too fast. Please forgive the error.
+
+For full disclosure, here’s the entire post in its original form:
+
+***
+
+It’s easy to glance at Tuesday’s popular vote — which, with 92 percent of all precincts reporting, shows Hillary Clinton with six million fewer votes than Barack Obama won in 2012 – and reach the conclusion that Clinton lost the White House because she failed to turn out the Democratic base. But the truth is much more complicated.
+
+While she underperformed relative to Obama’s 2012 totals in several Midwestern states — Ohio, Michigan, Iowa, and Wisconsin — Clinton ran virtually even with Obama in the battlegrounds of Pennsylvania, North Carolina, Virginia, Nevada, and New Hampshire. What’s more, she far surpassed Obama’s 2012 vote total in Florida, the country’s biggest swing state. Yet somehow, while Obama carried Florida, Clinton lost it.
+
+Which brings us to an important question: Was Donald Trump just good enough to beat a bad Democratic opponent on Tuesday, or does he deserve far more credit? Could he, for instance, have competed with the vaunted Obama machine? The answer, somewhat shockingly, is yes. #1#A review of vote totals in the past two elections reveals that Trump 2016 would have defeated Obama 2012 in the electoral college.#1#
+
+(Disclaimer: This obviously is an apples-to-oranges exercise because no two elections are the same, nor are any two electorates. Still, unlike debating whether the 2016 Cubs would defeat the 1927 Yankees, this is not an entirely abstract argument; a comparison of their respective performances in the country’s most competitive states shows Trump edging Obama in a hypothetical head-to-head matchup.)
+
+The math might seem impossible. After all, Obama won nearly 66 million votes in 2012; Trump is currently at 59.5 million and should finish around 60 million, which will actually be one million fewer votes than Mitt Romney won. How, then, could Trump have topped Obama in the electoral college? The answer: Republican turnout lagged in certain parts of the country but shot through the roof in the nation’s most critical battleground states.
+
+Let’s look at them individually, in descending order by population, and do the electoral-vote math. The 2016 totals aren’t yet final because not all precincts have reported.
+
+FLORIDA — 29 EVs — 98 percent reporting
+
+Obama 2012: 4,235,270
+
+Clinton 2016: 4,485,745
+
+
+
+Romney 2012: 4,162,081
+
+Trump 2016: 4,605,515
+
+
+
+Conclusion: Trump beats Obama by some 370,000 votes and wins Florida. (Note: Clinton herself won 250,000 more votes in Florida than Obama did in 2012.)
+
+
+
+PENNSYLVANIA — 20 EVs — 99 percent reporting
+
+Obama 2012: 2,907,448
+
+Clinton 2016: 2,844,705
+
+
+
+Romney 2012: 2,619,583
+
+Trump 2016: 2,912,941
+
+
+
+Conclusion: Trump squeezes past Obama by a margin of some 5,000 votes and wins Pennsylvania. (Note: Clinton runs about 60,000 votes behind Obama, but would’ve had more than enough to defeat Romney in 2012.)
+
+
+
+OHIO — 18 EVs – 94 percent reporting
+
+Obama 2012: 2,697,260
+
+Clinton 2016: 2,317,001
+
+
+
+Romney 2012: 2,593,779
+
+Trump 2016: 2,771,984
+
+
+
+Conclusion: Trump edges Obama by roughly 75,000 votes and wins Ohio. (Note: Clinton’s worst battleground state showing was Ohio, winning 380,000 [!] fewer votes than Obama.)
+
+
+
+Stop right there and crunch the numbers: Florida (29) + Pennsylvania (20) + Ohio (18) = 67 EVs.
+
+Romney finished with 206 EVs. By protecting all of those, and then taking 67 from Obama, Trump would hit 273 and win the presidency.
+
+The question: Did Trump 2016 defeat Obama 2012 in all of the states Romney won? Yes. Here’s a look at the competitive ones:
+
+– NORTH CAROLINA (98 percent reporting): Trump 2,339,603 … Obama 2,178,388
+
+– ARIZONA (73 percent reporting): Trump 947,284 … Obama 930,669
+
+– GEORGIA (93 percent reporting): Trump 2,068,623 … Obama 1,761,761
+
+– UTAH (78 percent reporting): Trump 360,634 … Obama 229,463
+
+A review of the Romney 2012 states confirms that Trump, in this hypothetical matchup, would have carried every single one against Obama.
+
+It doesn’t matter that Obama would have trounced Trump by nearly 300,000 votes in Michigan; by more than 200,000 in Wisconsin; by 175,000 in Virginia; and by 160,000 in Colorado. It’s similarly meaningless that Obama would have narrowly defeated Trump in Iowa, Nevada, and New Hampshire. The 44th president carried all of those states in 2012, and in this hypothetical contest, he would successfully defend all of them. But it wouldn’t be enough.
+
+The electoral college would produce a razor-thin margin: Trump 273, Obama 265.
+
+Again, this is an apples-to-oranges exercise. It’s impossible to know how the Obama campaign might have targeted certain voters in a contest against Trump, or whether Trump would have the same success in the three big battleground states against a more formidable opponent. But that’s not the point here; the point is that it’s not entirely fair to blame Clinton for depressing Democratic turnout when she ran even with him in five of the country’s most competitive states and ahead of him in a sixth, Florida, the single biggest swing state — and still lost the electoral college.
+

@@ -1,0 +1,49 @@
+# similarity2.py
+from __future__ import unicode_literals
+import re, spacy, os, glob
+from sklearn.feature_extraction.text import TfidfVectorizer
+from scipy import stats
+
+
+
+def isInt(value) :
+	try :
+		int(value)
+		return True
+	except :
+		return False
+
+
+directory = "/Volumes/USB/Research 2017-2018/RunNew"
+
+alltext = ""
+
+vectorizer = TfidfVectorizer()
+
+nlp = spacy.load('en')
+
+
+# for file in os.listdir(directory) :
+# 	with open(os.path.join(directory, file), "r") as text :
+# 		alltext += text.read()
+
+total = open(os.path.join(directory, "total.txt"), 'r')
+alltext = total.read()
+doc = nlp(alltext)
+print(alltext)
+# print(list(doc.sents))
+allfit = vectorizer.fit(list(doc.sents))
+total.close()
+
+
+
+results = []
+for file in os.listdir(directory) :
+	with open(os.path.join(directory, file), 'r') as text :
+		if (file != "total.txt") :
+			results.append(vectorizer.transform(text.readlines().encode('utf-8')))
+
+
+
+
+print(results)

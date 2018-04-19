@@ -1,0 +1,19 @@
+I was reading an interesting analysis from [National Review](http://www.nationalreview.com/corner/442059/dont-blame-clinton-trump-2016-wouldve-beaten-obama-2012), where they lay out #1#the case that Trump's performance in this election would have beaten Obama's performance in the 2012 election#1#.
+
+The math works like this, even with lower turnout in 2016, Trump flips three Obama states:
+
+* **Florida:** Obama 2012: 4,235,270 Trump 2016: 4,605,515
+* **Pennsylvania:** Obama 2012: 2,907,448 Trump 2016: 2,912,941
+* **Ohio:** Obama 2012: 2,697,260 Trump 2016: 2,771,984
+
+Which is enough to get him to 273 EV. He also holds the Romney states:
+
+* **North Carolina:** Trump 2,339,603 Obama 2,178,388
+* **Arizona:** Trump 947,284 Obama 930,669 
+* **Georgia:** Trump 2,068,623 Obama 1,761,761
+* **Utah:** Trump 360,634 Obama 229,463
+
+Trump does lose some states like Michigan, Wisconsin, and a few others, but it would not have been enough to give the election to Obama. Trump wins 273/265. The implications of this being that Trump was actually a stronger candidate than he is being given credit for, and Clinton was not necessarily as weak as she is being portrayed.
+
+Right off the bat, my view won't be changed by just saying something like "things would have been different", something like "you can't compare the two", or "you never know what would have happened". I'd kind of like to hear specific reasons why this analysis is invalid. 
+

@@ -1,0 +1,27 @@
+CMV: HEARTHSTONE IS A BAD CARD GAME
+ID: d9unvem
+Author: gpt999
+
+0
+
+> The random Cards in hearthstone are a calculated risk. So while they are directly random, the extreme end of their usefulness is strategic, and largely predicated by creating a board state where you can combo off of their randomness to your benefit. For example, in a really basic scenario if a card deals 3 random damage to an enemy and you need it to deal damage specifically to the enemy hero or a specific creature, your goal then becomes to create a board where only some iteration of that outcome can happen. I would say that's extremely strategic, and here's why.
+
+You have a very good argument that I never though about when talking about how those random target cards force you to prepare the board in advance, just wanted to point that out.
+
+But I do want to talk about "randomness", rather, what I consider to be the 2 different kind of randomness when it come to skill games.
+
+There is pre-action randomness, and post-action randomness.
+Pre-action randomness is what poker is famous for, you get your card draws fully randomly, but the decisions you do, is done after that random moment. A poker player will calculate the odds, try to bluff by considering what kind of draw would have being good, etc. While there is draws happening afterward, the meat of the decision making is made from stuff that happened already.
+
+Post-randomness is stuff like "A random creature take damage", Critical chance, etc. It happens after a player have done his decision 
+
+While both are random, there is a rather massive difference in how they are played, By example in MTG, you might look at your starting hand and consider what kind of board you are looking for, while you might look at your beefy dud and consider the odds they have drawn a second counter-spell on their 12th draw.
+
+The first adds a lot more dept to the game than the second, your example of controlling the board to increase your odds, in a way, is pre-randomness (planing your move according to your hand/board) to increase the odds of the post-randomness about to come.
+
+There is a need for randomness to make sure its not just a game of tic-tac-to where everybody does the same moves. But I feel pre-randomness is what lead to the vast majority of interesting elements, post-randomness often is weak when a player is ahead, and strong when he is behind, often leaving the one on the receiving end of that random effect feeling ripped off.
+On your point of it leading to strategies about board control, that is true, but there is many ways to also do the same, such as spell that does less damage the more enemies there is on the field, or cards that are weak but got a strong effect if it land a hit in the opponent's life. MTG has being loving that last one by example.
+
+
+-------
+

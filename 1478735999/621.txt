@@ -1,0 +1,16 @@
+CMV: I JUST DON'T THINK I WILL BE ABLE TO VOTE 3RD PARTY ANYMORE, IF THEY HAVE NO REAL CHANCE OF WINNING.
+ID: d9twacf
+Author: jay520
+
+0
+
+> I entered the election, knowing full well that I would vote for the candidate I could best hypothesize would generate the most utility. I planned on voting for Hillary Clinton because, to me, she seemed to be the best possible thing my vote could have accomplished.
+
+Let us grant that a vote should be based on the utility that it provides. To be more precise, we should look at the *expected* utility. There are two ways that your vote can produce utility: (a) by improving the nation by determining who becomes president, and (b) by benefiting you personally, by causing you to you feel an intrinsic sense of pride for voting for the candidate. 
+
+Now, the chances of your vote deciding the election is essentially zero, so the expected utility from (a) is essentially zero. Whoever is going to be president is going to be independent of who you vote for. Therefore, none of the utility of your vote will come from any benefit to the country (since your vote will almost definitely not influence the country). 
+
+So the only *realistic* utility that your vote provides comes solely from (b) the intrinsic joy of voting for your chosen candidate. If you approve of your favorite candidate significantly more than your 2nd favorite candidate, then voting for your favorite candidate will provide you with significantly more intrinsic joy than voting for your 2nd favorite candidate. Therefore, if you wish to maximize utility, then should vote for your favorite candidate.
+
+-------
+
